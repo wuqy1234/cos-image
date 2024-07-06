@@ -5,11 +5,7 @@
       "domain": "",
       "ip": "",
       "mode": "compose",
-<<<<<<< HEAD
-      "containerId": "8689f9b5b822ceccf0cfe93084befd973b232089d6dfcbff0b66c97f5573955a"
-=======
-      "containerId": "65bc8575ed1acf9d5758e67928a84a847763c24bba06aaed6fe169cf377e282d"
->>>>>>> f60ad0eee83816ca0534ed260611ac659b2e59fd
+      "containerId": ""
     }
   ],
   "config": {
