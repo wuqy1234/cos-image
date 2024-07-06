@@ -8,5 +8,25 @@
       "containerId": "ae75216a721ddfaa5d69b33739465549f109ba1b51dc31d49b05b6a345e99ac4"
     }
   ],
-  "config": {}
+  "wx-changefile": {
+    "koa-1": {
+      "dockerfilePath": "Dockerfile",
+      "buildDir": "",
+      "containerPort": 3001,
+      "envParams": {
+        "MYSQL_USERNAME": "root",
+        "MYSQL_PASSWORD": "Wuqy199511",
+        "MYSQL_ADDRESS": "10.2.114.172:3306"
+      },
+      "cpu": 0.5,
+      "mem": 1,
+      "policyType": "cpu",
+      "policyThreshold": 60,
+      "customLogs": "stdout",
+      "initialDelaySeconds": 2,
+      "minNum": 0,
+      "maxNum": 50,
+      "remark": ""
+    }
+  }
 }
