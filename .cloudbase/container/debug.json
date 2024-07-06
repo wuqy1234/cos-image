@@ -4,14 +4,15 @@
       "name": "wx-changefile",
       "domain": "",
       "ip": "",
-      "mode": "compose"
+      "mode": "compose",
+      "containerId": "8689f9b5b822ceccf0cfe93084befd973b232089d6dfcbff0b66c97f5573955a"
     }
   ],
-  "wx-changefile": {
-    "koa-1": {
+  "config": {
+    "wx-changefile": {
       "dockerfilePath": "Dockerfile",
       "buildDir": "",
-      "containerPort": 3001,
+      "containerPort": 80,
       "envParams": {
         "MYSQL_USERNAME": "root",
         "MYSQL_PASSWORD": "Wuqy199511",
