@@ -4,7 +4,8 @@
       "name": "wx-changefile",
       "domain": "",
       "ip": "",
-      "mode": "compose"
+      "mode": "compose",
+      "containerId": "65bc8575ed1acf9d5758e67928a84a847763c24bba06aaed6fe169cf377e282d"
     }
   ],
   "wx-changefile": {
