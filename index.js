@@ -324,5 +324,5 @@ const { APP_PORT } = require('./cos-study/配置文件/config.default')
 //启动服务器页面
 
 app.listen(APP_PORT, () => {
-  console.log(`服务器运行在: "http://localhost:${APP_PORT}"`)
+  console.log(`服务器运行在:  "http://localhost:${APP_PORT}"`)
 })
